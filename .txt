@@ -1,0 +1,29 @@
+////client
+1. we have created a react app with links bootstrap css and javascript
+2. in this video i have created two folder and added react icons like pages and layout=> and created two files home.js and layout
+3. creacte menu folder and file
+4. update home folder and file also. add typeRighter library from npm js.and now i am creating assets and inside the assets folder i an creating a doc folder and resume.pdf. and download cv need to download property in a tag
+5.now created about page
+6. now we created Tech skills folder and fiiles
+7.now i am creating project page
+8. now i am  creating a Education page and add a new page in menus file install a new library which is react-vertical-timeline-components for education page
+9. now i am creating contact page & create footer also .
+10. now i'm gonna add some feature like scroll to top (npm i react-scroll-to-top),and (npm i react-scroll) when you click a about menu button you will be reache about page
+11. now add ligth and dark mood with the help of useContext() hook it is new thing for me in this video firts i need to create a folder and inside the folder need to create a file like themContext.js 
+12. and in this video i created animations
+//// server
+13. now i will create server with nodes  library  express.js
+14. responsiv navbar for mobail
+15. responsive homepage => <a
+                  className="btn btn-hire"
+                  href="https://api.whatsapp.com/send?phone=7828092738"
+                  target="blank"
+                >
+                  Hire Me
+                </a>
+16. i use formspree website for send sms in your email 
+     1 . you need to add code in your fomr tag 
+     action="https://formspree.io/f/xzbldppp" method="POST"
+17. fully responsive for mobails and laptop
+
+18. connect to mongoodb 
